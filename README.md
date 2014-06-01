@@ -26,6 +26,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Paprocki Adam
 1. Mazur Michał
 1. [Denejko Wojciech][b]
+1. Pawel Wiergowski
 
 
 ### Użyteczne narzędzia
